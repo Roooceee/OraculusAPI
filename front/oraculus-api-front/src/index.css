@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.contain-1440 {
+  max-width: 1440px;
+}
+
+.btn {
+  padding: 15px 15px;
+  border-radius: 5px;
+}
+
+:root {
+  --background-semi-transparent: rgba(0, 0, 0, 0.6);
+}

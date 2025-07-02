@@ -1,0 +1,134 @@
+[
+  {
+    "nom": "belier",
+    "dates": "21 mars au 19 avril",
+    "amour": "Une journée sous le signe de la passion, mais gare aux incompréhensions ! Soyez clair dans vos paroles pour éviter les quiproquos.",
+    "travail": "Votre énergie débordante vous pousse à foncer, mais attention aux conflits avec vos collègues. La diplomatie sera votre meilleure alliée !",
+    "argent": "Les achats compulsifs, c'est tentant... mais votre portefeuille risque de ne pas apprécier. Réfléchissez avant de dégainer la carte bleue !",
+    "sante": "Pensez à vous hydrater et à faire une petite pause. Courir partout, c'est bien, mais prenez aussi soin de vous !",
+    "famille_et_amis": "Un proche pourrait avoir besoin d’une oreille attentive. Prenez le temps d’écouter, vous pourriez aussi en apprendre beaucoup !",
+    "conseil": "Avant d’agir sur un coup de tête, inspirez, expirez… et réfléchissez une seconde de plus. Ça peut tout changer !",
+    "imageURL": "img/signes/belier.png"
+  },
+  {
+    "nom": "taureau",
+    "dates": "20 avril au 20 mai",
+    "amour": "Votre patience et votre tendresse seront récompensées par des moments complices. Sortez le grand jeu et laissez parler votre romantisme !",
+    "travail": "Une surprise pourrait bien venir chambouler votre routine. Restez attentif aux opportunités, elles ne se présentent pas deux fois !",
+    "argent": "Petit coup de folie ou gestion prudente ? Le juste milieu serait idéal pour éviter de faire des choix que vous regretterez plus tard.",
+    "sante": "Prenez le temps de souffler et de recharger les batteries. Une pause bien méritée ne fera de mal à personne, surtout pas à vous !",
+    "famille_et_amis": "Profitez d’un moment de détente avec vos proches. Rien de mieux qu’un bon repas ou une discussion légère pour se ressourcer !",
+    "conseil": "Ne laissez pas le stress envahir votre esprit. Un bon bol d'air frais ou une playlist détente peut tout changer !",
+    "imageURL": "img/signes/taureau.png"
+  },
+  {
+    "nom": "gemeaux",
+    "dates": "21 mai au 20 juin",
+    "amour": "Les mots ont un pouvoir magique aujourd’hui : usez-en pour déclarer votre flamme ou clarifier une situation. L’amour est dans l’air !",
+    "travail": "Vous avez mille idées à la seconde, mais il faudra vous concentrer pour avancer efficacement. Trop de projets tuent le projet !",
+    "argent": "Attention aux achats inutiles, surtout si vous avez déjà un panier en ligne bien rempli... On respire et on trie avant de valider !",
+    "sante": "Votre cerveau carbure à plein régime, mais pensez aussi à reposer votre corps. Une bonne nuit de sommeil pourrait vous sauver la mise !",
+    "famille_et_amis": "Un échange sincère avec un proche pourrait éclairer certaines zones d’ombre. Laissez la communication opérer sa magie !",
+    "conseil": "Soyez flexible et prêt à vous adapter. La journée pourrait réserver quelques surprises, autant les accueillir avec le sourire !",
+    "imageURL": "img/signes/gemeaux.png"
+  },
+  {
+    "nom": "cancer",
+    "dates": "21 juin au 22 juillet",
+    "amour": "Un rapprochement inattendu pourrait bouleverser votre quotidien. Laissez votre cœur parler, mais gardez les pieds sur terre !",
+    "travail": "Une ambiance un peu tendue pourrait vous déstabiliser. Restez diplomate et ne laissez pas les ondes négatives vous atteindre.",
+    "argent": "Les finances sont stables, mais ce n’est pas une raison pour craquer sur un achat superflu. Faites-vous plaisir, mais avec modération !",
+    "sante": "Évitez les excès et prenez soin de votre alimentation. Un petit plat fait maison vaut mieux qu’un fast-food avalé à la va-vite !",
+    "famille_et_amis": "Un moment de partage avec vos proches vous fera un bien fou. Sortez, discutez, éclatez-vous !",
+    "conseil": "Ne laissez pas vos émotions prendre le contrôle total. Parfois, un peu de recul fait des miracles !",
+    "imageURL": "img/signes/cancer.png"
+  },
+  {
+    "nom": "lion",
+    "dates": "23 juillet au 22 août",
+    "amour": "Votre charisme est au top, et les regards se tournent vers vous ! Profitez de cette énergie pour séduire ou raviver la flamme.",
+    "travail": "Une belle avancée se profile, mais ne laissez pas votre ego prendre toute la place. Le travail d’équipe vous mènera plus loin !",
+    "argent": "Une rentrée d'argent imprévue pourrait illuminer votre journée. Mais avant de tout flamber, pensez à épargner un peu !",
+    "sante": "Prenez le temps de souffler, même les rois et reines ont besoin de repos ! Un bon sommeil et vous repartirez de plus belle.",
+    "famille_et_amis": "Soyez attentif à vos proches, certains pourraient avoir besoin de votre énergie positive. Un petit mot gentil ne coûte rien !",
+    "conseil": "Restez humble malgré vos succès. Vous brillez déjà naturellement, pas besoin d’en faire trop !",
+    "imageURL": "img/signes/lion.png"
+  },
+  {
+    "nom": "vierge",
+    "dates": "23 août au 22 septembre",
+    "amour": "Les petits détails font toute la différence aujourd’hui. Une attention particulière pourrait raviver la flamme ou séduire quelqu’un !",
+    "travail": "Votre rigueur paie enfin, mais attention à ne pas être trop perfectionniste. Faites confiance à votre intuition pour avancer.",
+    "argent": "Les finances sont stables, mais évitez les dépenses impulsives. Un petit check de votre budget ne serait pas de trop !",
+    "sante": "Ne négligez pas votre bien-être mental. Un moment de calme, une balade ou un bon livre pourraient vous faire le plus grand bien.",
+    "famille_et_amis": "Un échange avec un proche pourrait vous éclairer sur une situation floue. Prenez le temps d’écouter et de partager.",
+    "conseil": "Lâchez un peu prise et accordez-vous une pause. Tout ne doit pas être parfait pour être bien !",
+    "imageURL": "img/signes/vierge.png"
+  },
+  {
+    "nom": "balance",
+    "dates": "23 septembre au 22 octobre",
+    "amour": "Votre charme naturel fait des ravages. Une belle surprise amoureuse pourrait bien illuminer votre journée !",
+    "travail": "L’équilibre est la clé. Trouvez le bon rythme entre ambition et sérénité pour éviter le stress inutile.",
+    "argent": "Vos finances sont sous contrôle, mais un petit plaisir bien réfléchi ne ferait pas de mal. Faites-vous plaisir sans culpabiliser !",
+    "sante": "Prenez soin de votre corps et de votre esprit. Un moment de détente, comme une séance de méditation, pourrait vous recentrer.",
+    "famille_et_amis": "Un proche pourrait avoir besoin de vos conseils avisés. Soyez à l’écoute, votre sagesse sera précieuse.",
+    "conseil": "Faites confiance à votre instinct et suivez votre cœur. Parfois, il ne faut pas trop réfléchir !",
+    "imageURL": "img/signes/balance.png"
+  },
+  {
+    "nom": "scorpion",
+    "dates": "23 octobre au 21 novembre",
+    "amour": "Votre intensité séduit, mais attention à ne pas en faire trop. Laissez l’autre venir à vous naturellement.",
+    "travail": "Votre détermination vous mène loin, mais n’écrasez pas tout sur votre passage. Un peu de tact peut tout changer !",
+    "argent": "Une opportunité financière pourrait se présenter. Restez attentif et ne laissez pas passer votre chance.",
+    "sante": "Canalisez votre énergie pour éviter le stress. Le sport ou une activité créative pourraient vous aider à relâcher la pression.",
+    "famille_et_amis": "Les relations sont intenses aujourd’hui. Un échange profond pourrait renforcer un lien précieux.",
+    "conseil": "Laissez un peu de mystère, tout ne doit pas être dit d’un coup. La patience est votre alliée !",
+    "imageURL": "img/signes/scorpion.png"
+  },
+  {
+    "nom": "sagittaire",
+    "dates": "22 novembre au 21 décembre",
+    "amour": "L’envie d’évasion se fait sentir. Pourquoi ne pas surprendre votre partenaire avec une sortie improvisée ?",
+    "travail": "Votre soif d’aventure vous pousse à explorer de nouvelles idées. Ne laissez pas la routine étouffer votre créativité !",
+    "argent": "Une dépense inattendue pourrait survenir. Restez prudent, mais ne vous privez pas pour autant.",
+    "sante": "Bougez ! Une activité physique ou une simple promenade pourrait vous redonner toute votre énergie.",
+    "famille_et_amis": "Un moment convivial avec des amis ou la famille vous fera le plus grand bien. Profitez de leur bonne humeur !",
+    "conseil": "Faites confiance au destin et laissez-vous porter. Parfois, lâcher prise est la meilleure décision !",
+    "imageURL": "img/signes/sagittaire.png"
+  },
+  {
+    "nom": "capricorne",
+    "dates": "22 décembre au 19 janvier",
+    "amour": "Votre sérieux est apprécié, mais montrez aussi votre côté tendre. Un geste attentionné pourrait faire toute la différence.",
+    "travail": "Votre persévérance vous rapproche de vos objectifs. Continuez sur cette voie, mais ménagez-vous aussi !",
+    "argent": "Une bonne gestion est votre force. Aujourd’hui, réfléchissez à un investissement à long terme qui pourrait porter ses fruits.",
+    "sante": "Prenez soin de vous et écoutez votre corps. Un petit excès peut passer, mais l’équilibre reste essentiel.",
+    "famille_et_amis": "Un moment simple mais sincère avec un proche pourrait vous rebooster. Partagez votre temps avec ceux qui comptent.",
+    "conseil": "Ne soyez pas trop dur avec vous-même. Chaque effort compte, même les plus petits !",
+    "imageURL": "img/signes/capricorne.png"
+  },
+  {
+    "nom": "verseau",
+    "dates": "20 janvier au 18 février",
+    "amour": "Votre originalité séduit, mais attention à ne pas trop en faire. Restez authentique, c’est ce qui vous rend unique !",
+    "travail": "Des idées nouvelles fusent, mais structurez-les pour éviter de vous disperser. Un plan clair vous aidera à avancer efficacement.",
+    "argent": "Une opportunité financière pourrait émerger. Prenez le temps d’analyser avant de vous lancer.",
+    "sante": "Prenez du temps pour vous recentrer. Une activité relaxante pourrait vous faire le plus grand bien.",
+    "famille_et_amis": "Vous êtes une source d’inspiration pour votre entourage. Partagez votre vision et écoutez aussi les autres.",
+    "conseil": "Osez être vous-même, même si cela sort des sentiers battus. Votre différence est votre force !",
+    "imageURL": "img/signes/verseau.png"
+  },
+  {
+    "nom": "poisson",
+    "dates": "19 février au 20 mars",
+    "amour": "Votre sensibilité est un atout, mais ne vous laissez pas submerger par les émotions. Prenez du recul si nécessaire.",
+    "travail": "Votre imagination débordante pourrait vous ouvrir de nouvelles portes. Notez vos idées avant qu’elles ne s’envolent !",
+    "argent": "Attention aux illusions. Vérifiez bien les détails avant de signer quoi que ce soit.",
+    "sante": "Accordez-vous du repos et prenez soin de votre bien-être intérieur. Un moment de solitude pourrait être bénéfique.",
+    "famille_et_amis": "Un échange sincère avec un proche pourrait vous apporter des réponses. Écoutez votre intuition.",
+    "conseil": "Faites confiance à votre ressenti, mais gardez aussi un pied dans la réalité. L’équilibre est la clé !",
+    "imageURL": "img/signes/poissons.png"
+  }
+]
